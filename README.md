@@ -1,6 +1,9 @@
 # Simple Gallery
 
-- A simple static website to bring Simple Gallery online. Allow admins to represent the works of the artists, statistics of relatives sales, as well as allow to receive any feedbacks from the audiences.
+- A simple static website to bring Simple Gallery online. 
+- Allow admins to represent the works of the artists, 
+- statistics of relatives sales, 
+- as well as allow to receive any feedbacks from the audiences.
 
 # Steps:
 
@@ -18,7 +21,7 @@ brew install --cask visual-studio-code
 
 4. Download Live Server(by Ritwick Dey) extension in VS-code
 
-### Its viewable in your browser by right-click ***open with live server*** in .html
+***Its viewable in your browser by right-clicking open with live server in .html***
 
 # Technology:
 
