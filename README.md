@@ -18,7 +18,7 @@ brew install --cask visual-studio-code
 
 4. Download Live Server(by Ritwick Dey) extension in VS-code
 
-##### Its viewable in your browser by right-click ***open with live server*** in .html
+### Its viewable in your browser by right-click ***open with live server*** in .html
 
 # Technology:
 
@@ -28,17 +28,17 @@ brew install --cask visual-studio-code
 
 ## Self-reflection:
 
-1. What could you have done differently during the planning stages of your project to make the execution easier?
+Q: What could you have done differently during the planning stages of your project to make the execution easier?
 - Draw Wireframes, it'd help to maintain consistency and effective communications as the scale of the project grows bigger.
 
 
-2. Were there any requirements that were difficult to implement? What do you think would make them easier to implement in future projects?
+Q: Were there any requirements that were difficult to implement? What do you think would make them easier to implement in future projects?
 - Dropdown in nav bar requires more depth understanding of css.
 
 
-3. What would you add to or change about your website if given more time?
+Q: What would you add to or change about your website if given more time?
 - Don't repeat the code, archetiured the layouts before implementing detail features 
 
-4. Use this space to make notes for your future self about anything that you think is important to remember about this process, or that may aid you when attempting something similar again.
+Q: Use this space to make notes for your future self about anything that you think is important to remember about this process, or that may aid you when attempting something similar again.
 
 
