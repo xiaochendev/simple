@@ -4,15 +4,15 @@
 
 # Steps:
 
-### Open your terminal
+1. Open your terminal
 
-### Copy repository to your local file
+2. Copy repository to your local file
 `git clone https://github.com/xiaochendev/simple.git`
 
-### install VS-code if you don't have
+3. Install VS-code if you don't have
 `brew install --cask visual-studio-code`
 
-### Download Live Server(by Ritwick Dey) extension in VS-code
+4. Download Live Server(by Ritwick Dey) extension in VS-code
 
 ##### Its viewable in your browser by right-click ***open with live server*** in .html
 
@@ -24,17 +24,17 @@
 
 ## Self-reflection:
 
-### What could you have done differently during the planning stages of your project to make the execution easier?
+1. What could you have done differently during the planning stages of your project to make the execution easier?
 > Draw Wireframes, it'd help to maintain consistency and effective communications as the scale of the project grows bigger.
 
 
-### Were there any requirements that were difficult to implement? What do you think would make them easier to implement in future projects?
+2. Were there any requirements that were difficult to implement? What do you think would make them easier to implement in future projects?
 > Dropdown in nav bar requires more depth understanding of css.
 
 
-### What would you add to or change about your website if given more time?
+3. What would you add to or change about your website if given more time?
 > Don't repeat the code, archetiured the layouts before implementing detail features 
 
-### Use this space to make notes for your future self about anything that you think is important to remember about this process, or that may aid you when attempting something similar again.
+4. Use this space to make notes for your future self about anything that you think is important to remember about this process, or that may aid you when attempting something similar again.
 
 
